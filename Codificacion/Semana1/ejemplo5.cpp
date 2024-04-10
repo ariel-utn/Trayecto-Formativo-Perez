@@ -10,9 +10,11 @@
 
 using namespace std;
 
-int main(){
+int main()
+{
 
     int num1, num2, resultado;
+
 
     /// DATOS DE ENTRADA
 
